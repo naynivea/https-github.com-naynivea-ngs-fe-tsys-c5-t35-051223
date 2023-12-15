@@ -1,1 +1,1 @@
-# https-github.com-naynivea-ngs-fe-tsys-c5-t35-051223
+# ngs-fe-tsys-c5-t35-051223
